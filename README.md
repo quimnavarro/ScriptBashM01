@@ -1,2 +1,7 @@
 # ScriptBashM01
-Scritp dek exercici de M01
+Scritp del exercici de M01
+
+## ScriptBashM01
+
+### ScriptBashM01
+
